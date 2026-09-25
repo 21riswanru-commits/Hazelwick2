@@ -5,7 +5,7 @@ tens=remaining//10
 remaining2=remaining%10
 units=remaining2//1
 sum=hundreds+tens+units
-reversed=
+reversed=#reverse code
 print("Hundreds:",hundreds)
 print("Tens:",tens)
 print("Units",units)
