@@ -18,6 +18,6 @@ n=3
 countdown(n)
 string=input("Enter string:")
 reverse_string(string)
-r=reverse_string(s)
+r=reverse_string(string)
 print(r)
 
